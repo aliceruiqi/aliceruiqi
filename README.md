@@ -2,5 +2,5 @@
 
 This is Rui, 
 
-🌱 I’m currently learning Data Science
+🌱 NEW to GitHub, I’m currently learning Data Science
 
